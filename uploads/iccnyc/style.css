@@ -175,8 +175,7 @@ textarea:focus,
 }
 
 a {
-	color: #d2414b;
-	text-decoration: underline;
+	color: #A4E9F5;
 }
 
 a:focus,
@@ -1434,7 +1433,7 @@ figcaption,
 
 
 /* Site Navigation
----------------------------------------------------------------------------- */
+---------------------------------------------------------------------------- *
 
 .genesis-nav-menu {
 	clear: both;
